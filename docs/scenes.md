@@ -14,4 +14,4 @@ The selected videos from *Tanks and Temples* dataset were:
 
 For the subjective test purpose, the spatial resolutions were uniformized with a cropping to 928×522 pixels.
 
-The selected 360º dataset (namely: [Tanks and Temples](https://www.tanksandtemples.org)) has already been used in published works, enabling the validation of the herein generated synthesized videos, by comparison of the obtained objective quality metrics values (using PSNR, SSIM, and LPIPS) with the values reported on those works.
+Both datasets (namely: [Tanks and Temples](https://www.tanksandtemples.org) and [IST/IT](https://github.com/pedrogcmartin/NVS-QA/tree/main)) have already been used in published works, enabling the validation of the herein generated synthesized videos, by comparison of the obtained objective quality metrics values (using PSNR, SSIM, and LPIPS) with the values reported on those works.

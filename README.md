@@ -3,8 +3,6 @@
 
 Paper: https://ieeexplore.ieee.org/abstract/document/11219925
 
-This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
-
 Authors: Pedro Martin, António Rodrigues, João Ascenso, Maria Paula Queluz 
 
 The GS-QA database contains: 

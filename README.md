@@ -1,7 +1,7 @@
 # GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis
 ## GS-QA Database
 
-Paper: https://arxiv.org/abs/2502.13196
+Paper: https://ieeexplore.ieee.org/abstract/document/11219925
 
 This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
 
@@ -25,4 +25,4 @@ Click for more information about:
 
 # Citation
 
-P. Martin, A. Rodrigues, J. Ascenso, and M. P. Queluz, "GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis", arXiv preprint arXiv:2502.13196, 2025.
+P. Martin, A. Rodrigues, J. Ascenso, and M. P. Queluz, "GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis", 2025 17th International Conference on Quality of Multimedia Experience (QoMEX), Madrid, Spain, 2025, pp. 1-7
